@@ -20,9 +20,9 @@
   \omit Staff.TimeSignature
   \cadenzaOn
     <c e>8^\markup { "Opening (O1)" } \bar "|" e4 \once \hide Stem c8 c4 \bar "||"
+    c8^\markup { "Opening (O2)" } \bar "|" \once \hide Stem e4 d4 c4 \bar "||"
     g8^\markup { "Continuation (C)" } \bar "|" \once \hide Stem c8 c4 \bar "||" 
-    \once \hide Stem c8 \bar "|" \once \hide Stem d4^\markup { "Ending (E)" } c8 <c b>8 c4 \bar "||" 
-    c8^\markup { "Opening (O2)" } \bar "|" \once \hide Stem e4 d4 c4 \bar "||"\break
+    \once \hide Stem c8 \bar "|" \once \hide Stem d4^\markup { "Phrase ending (PhE)" } c8 <c b>8 c4 \bar "||" \break
   
   }
 }
