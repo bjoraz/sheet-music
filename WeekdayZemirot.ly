@@ -59,3 +59,15 @@
   ha- ma- nga- vir she- na me- nge- ne- nu ut- nu- ma me- ngaf- ngap- pe- nu
   }
 }
+
+\markup \box "Pesuke dezimra motifs"
+
+\markup \box "Pesuke dezimra phrases"
+
+\markup \box "Barukh sheamar motifs"
+
+\markup \box "Barukh sheamar"
+
+\markup \box "Yishtabaḥ motifs"
+
+\markup \box "Yishtabaḥ"
