@@ -59,16 +59,3 @@
   ha- ma- nga- vir she- na me- nge- ne- nu ut- nu- ma me- ngaf- ngap- pe- nu
   }
 }
-
-
-\markup \box "Top-level markup"
-\score {
-  \relative c' {
-    <c e>8^\markup { "Opening (O)" } \bar "|" e4 \once \hide Stem c8 c4 \bar "||"
-    g8^\markup { "Continuation (C)" } \bar "|" \once \hide Stem c8 c4 \bar "||" 
-    \once \hide Stem c8 \bar "|" \once \hide Stem d4 c8 <c b>8 c4 \bar "||" 
-    c8 \bar "|" \once \hide Stem e4 d4 c4 \bar "||"\break
-    c8
-
-  }
-}
